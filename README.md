@@ -147,8 +147,8 @@ During this project, I gained practical experience in:
 
 **Ruchika Singh**
 
-MCA Student
 
 
 
-Thank you to **The Developers Arena** for providing this internship opportunity and helping me strengthen my practical knowledge in Python, Data Visualization, and Dashboard Development.
+
+Thank you 
